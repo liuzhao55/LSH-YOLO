@@ -1,10 +1,10 @@
 # LSH-YOLO
 # LSH-YOLO: A Lightweight Helmet Detection Algorithm with Enhanced Accuracy and Efficiency
 
-This repository provides the official implementation of our paper submitted to *The Visual Computer*.
+This repository provides the official implementation of our paper submitted to *buildings*.
 
 ## 🔗 Paper
-"This code is directly related to our manuscript currently submitted to *The Visual Computer*. If you find this work helpful, please consider citing our paper."
+"This code is directly related to our manuscript currently submitted to *buildings*. If you find this work helpful, please consider citing our paper."
 
 ## 🚀 Highlights
 - Lightweight feature extraction using KWConv and C2f-KW
